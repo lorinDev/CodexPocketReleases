@@ -3,10 +3,10 @@
   "apps": {
     "lorinDev/LorinXGames": {
       "test": {
-        "tag": "v1.0.0-test.1",
-        "url": "https://github.com/lorinDev/LorinXGames/releases/download/v1.0.0-test.1/GraffitiMap.apk",
-        "sha256": "16d86f4a2e9510d57d798284997ced63b9acaf663d5f8c0c4c5a8f69de574d3b",
-        "size": 61096064,
+        "tag": "build-20261002-013628",
+        "url": "https://github.com/lorinDev/LorinXGames/releases/download/build-20261002-013628/GraffitiMap.apk",
+        "sha256": "1ce02f8857bac03526a28c1688fcaa620596d3f3f315b5e8fb7a47aeab187224",
+        "size": 63864708,
         "packageName": "com.lorin.android.island.ltd",
         "versionCode": 1,
         "versionName": "1.0.0"
