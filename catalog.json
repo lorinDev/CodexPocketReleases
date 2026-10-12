@@ -31,6 +31,17 @@
         "versionCode": 44,
         "versionName": "0.9.1-test.25"
       }
+    },
+    "lorinDev/SkiingReleases": {
+      "stable": {
+        "tag": "build-20261012-090307-skiing",
+        "url": "https://github.com/lorinDev/SkiingReleases/releases/download/build-20261012-090307-skiing/Skiing.apk",
+        "sha256": "334742cab7ffc58e0b5851184fb542551cbdbf937eec38a3d1371379d4e929b7",
+        "size": 53245353,
+        "packageName": "com.lorin.android.catdogskiing",
+        "versionCode": 102,
+        "versionName": "0.1.2"
+      }
     }
   }
 }
