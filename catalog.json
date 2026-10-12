@@ -42,6 +42,17 @@
         "versionCode": 102,
         "versionName": "0.1.2"
       }
+    },
+    "lorinDev/FlClashReleases": {
+      "stable": {
+        "tag": "v0.8.99",
+        "url": "https://github.com/lorinDev/FlClashReleases/releases/download/v0.8.99/FlClash.apk",
+        "sha256": "6caaa8165fbc43232c3a0184b570852895ffa9d6171cee696e25f11836b1a3f0",
+        "size": 61287822,
+        "packageName": "com.follow.clash",
+        "versionCode": 2026102301,
+        "versionName": "0.8.99"
+      }
     }
   }
 }
