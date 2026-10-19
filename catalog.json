@@ -23,13 +23,13 @@
     },
     "lorinDev/CodexPocketReleases": {
       "test": {
-        "tag": "v0.9.1-test.31",
-        "url": "https://github.com/lorinDev/CodexPocketReleases/releases/download/v0.9.1-test.31/CodexPocket.apk",
-        "sha256": "828c674fa9138d03bb4251915ad654afd1a20fa38e486b859294cb2d55280feb",
-        "size": 525539,
+        "tag": "v0.9.1-test.32",
+        "url": "https://github.com/lorinDev/CodexPocketReleases/releases/download/v0.9.1-test.32/CodexPocket.apk",
+        "sha256": "2ac52d552611cdff37c8681183f347cbcafba58286e7620aba0440e278235336",
+        "size": 537827,
         "packageName": "com.codexpocket.app",
-        "versionCode": 50,
-        "versionName": "0.9.1-test.31"
+        "versionCode": 51,
+        "versionName": "0.9.1-test.32"
       }
     },
     "lorinDev/SkiingReleases": {
