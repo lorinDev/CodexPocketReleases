@@ -32,13 +32,13 @@
         "versionName": "0.9.1-test.37"
       },
       "stable": {
-        "tag": "v0.10.24",
-        "versionName": "0.10.24",
-        "versionCode": 1024,
+        "tag": "v0.10.31",
+        "versionName": "0.10.31",
+        "versionCode": 1031,
         "packageName": "com.codexpocket.app",
-        "url": "https://github.com/lorinDev/CodexPocketReleases/releases/download/v0.10.24/CodexPocket.apk",
+        "url": "https://github.com/lorinDev/CodexPocketReleases/releases/download/v0.10.31/CodexPocket.apk",
         "size": 25823332,
-        "sha256": "c02bf33b2c92958d250188a04410d9625cbdeb72c437f840fe6a8e588aa11189"
+        "sha256": "368d427e5febda5fdfe6e534b2a86de302791563ed0ea5dff1240c3a221b28d6"
       }
     },
     "lorinDev/SkiingReleases": {
