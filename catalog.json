@@ -65,13 +65,13 @@
     },
     "com.lorin.android.codexpocket": {
       "stable": {
-        "versionName": "0.10.68",
-        "versionCode": 1068,
+        "versionName": "0.10.70",
+        "versionCode": 1070,
         "packageName": "com.lorin.android.codexpocket",
-        "size": 25970941,
-        "sha256": "0b6d37cb843280f6640eb80bf3a41ccf954519f7360923f31f62dc646111f7f7",
-        "tag": "v0.10.68",
-        "url": "https://github.com/lorinDev/CodexPocketReleases/releases/download/v0.10.68/CodexPocket.apk"
+        "size": 25975037,
+        "sha256": "ef700eec8f16ecb5f4d9c78d83ab224f0639ccc578dc05a1de190e8a9b169bd4",
+        "tag": "v0.10.70",
+        "url": "https://github.com/lorinDev/CodexPocketReleases/releases/download/v0.10.70/CodexPocket.apk"
       }
     }
   }
