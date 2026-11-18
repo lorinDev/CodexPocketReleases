@@ -43,13 +43,13 @@
     },
     "lorinDev/SkiingReleases": {
       "stable": {
-        "tag": "build-20261117-234450",
-        "url": "https://github.com/lorinDev/SkiingReleases/releases/download/build-20261117-234450/Skiing.apk",
-        "sha256": "4540e6c731237657455afc84d2585136b46b8cea13cc91f17da50eb3b435676b",
-        "size": 83824551,
+        "tag": "build-20261118-095814",
+        "url": "https://github.com/lorinDev/SkiingReleases/releases/download/build-20261118-095814/Skiing.apk",
+        "sha256": "f0568cec9fb5fa4d379fa858dc81cc66766dcdd96ea19010f0944444406cda97",
+        "size": 83824467,
         "packageName": "com.lorin.android.catdogskiing",
-        "versionCode": 181,
-        "versionName": "0.1.81"
+        "versionCode": 182,
+        "versionName": "0.1.82"
       }
     },
     "lorinDev/FlClashReleases": {
